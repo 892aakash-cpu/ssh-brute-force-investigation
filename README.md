@@ -1,4 +1,4 @@
-SSH Brute Force Investigation (Linux logs)
+## SSH Brute Force Investigation (Linux logs)
 
 ## 1. log sample
 Nov 24 09:00:12 srv sshd[700]: Accepted publickey for amit from 10.0.0.15 port 50100 ssh2
